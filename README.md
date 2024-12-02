@@ -1,3 +1,7 @@
+
+![life expectancy](https://github.com/user-attachments/assets/ad337d07-2cda-4add-8433-c79b65ecd0c1)
+
+
 Despite significant global progress in healthcare, life expectancy rates remain disparate across continents, with some regions experiencing stagnant or declining trends. Understanding the complex relationships between economic factors, mortality rates, and life expectancy is crucial for developing targeted interventions to address these disparities.
 
 
